@@ -194,4 +194,4 @@ five formal deliverables and strict deadlines:
 
 **Lindokuhle Nyoka**
 Aspiring ML Engineer and Quantitative Analyst
-[GitHub](https://github.com/lk-nyoka) · [LinkedIn](https://linkedin.com/in/lindokuhle-nyoka-982019245)
+[GitHub](https://github.com/lk-nyoka) · [LinkedIn](https://linkedin.com/in/lindokuhle-nyoka-982019245)# Stock-Direction-Classifier-Equity-Signal-Model
